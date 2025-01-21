@@ -44,7 +44,7 @@
 
 ## 🏆 **Minhas Conquistas**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UrielAndrade&theme=radical&column=4" />
 </div>
 
 ---

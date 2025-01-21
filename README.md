@@ -49,5 +49,3 @@
 
 <br clear="both"> 
 
-<p>Meu Gmail: <a href="mailto:andradeleiru@gmail.com">andradeleiru@gmail.com</a></p>
-<p>Meu Instagram: <a href="https://www.instagram.com/uriel_007_leiru/?utm_source=qr&igsh=NTQ5YTk3MGd6dmJv" target="_blank">Instagram</a></p>

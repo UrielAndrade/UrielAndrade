@@ -9,7 +9,6 @@
 
 ## 🎨 **Sobre Mim**
 
-
 👋 Olá! Sou **Uriel Luiz**, um desenvolvedor apaixonado por tecnologia.
 
 - 🌱 Atualmente estudando **C#**, **HTML**, **CSS** e **JavaScript**.
@@ -19,32 +18,32 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=FF6347&background=FFFFFF00&center=true&vCenter=true&lines=Bem-vindo+ao+meu+perfil!;Vamos+criar+algo+incrível!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF6347&background=FFFFFF00&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Vamos+criar+algo+incrível!+%F0%9F%92%BB" />
 </div>
 
 ---
 
 ## 💻 **Tecnologias que domino**
 <div align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge&animation=spin" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&animation=spin" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&animation=spin" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&animation=spin" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
 </div>
 
 ---
 
 ## 📊 **Estatísticas do GitHub**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true&include_all_commits=true&animation=bounce" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical&animation=fadeIn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" />
 </div>
 
 ---
 
 ## 🏆 **Minhas Conquistas**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&column=4&animation=bounceIn" />
+  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=radical&column=4" />
 </div>
 
 ---

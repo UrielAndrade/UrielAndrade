@@ -2,7 +2,7 @@
 
 ### 💼 **My Career**
 - 👶 **Born**: 2008
-- 💻 **Learning**: HTML, CSS, C#, JS
+- 💻 **Learning**: C#, JS, CSS, HTML
 - 🎓 **Currently**: IFRO - Technical in Information Technology
 - 🚀 **Goal**: Full Stack Developer
 

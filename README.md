@@ -1,4 +1,6 @@
 <h2 align="left">Hi 👋! My name is Uriel and I'm a Developer, from Brazil.</h2>
+
+
 ### 💼 **My Career**
 - 👶 **Birth**: I was born in 2008 and have been passionate about technology from a very young age.
 - 💻 **Start in Programming**: I began learning programming with a focus on both front-end and back-end.
@@ -9,7 +11,7 @@
 
 ###
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=urielandrade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />

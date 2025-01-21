@@ -34,8 +34,6 @@
 
 ###
 
-### 💼 **Minha Carreira**
-Nasci em 2008 e desde cedo me interessei por tecnologia e programação. Atualmente, estou no caminho para me tornar um desenvolvedor Full Stack. Tento aprender tanto o desenvolvimento front-end quanto back-end, buscando criar soluções completas e eficientes. Meu objetivo é aprimorar constantemente minhas habilidades e contribuir para projetos inovadores.
 
 ###
 

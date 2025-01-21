@@ -18,8 +18,9 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF6347&background=FFFFFF00&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!;Vamos+criar+algo+incrível!+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF6347&background=FFFFFF00&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil" />
 </div>
+
 
 ---
 

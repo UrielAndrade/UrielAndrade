@@ -1,74 +1,47 @@
-# 🌟 **Bem-vindo ao meu Mundo Digital!** 🌟
-> *"Transformando café em código e ideias em realidade."*
+<h2 align="left">Hi 👋! My name is Uriel and I'm a Developer, from Brazil.</h2>
+
+###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=urielandrade&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=urielandrade&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🎨 **Sobre Mim**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-👋 Olá! Sou **Uriel Luiz**, um desenvolvedor apaixonado por tecnologia.
+###
 
-- 🌱 Atualmente estudando **C#**, **HTML**, **CSS** e **JavaScript**.
-- 🎯 Meu objetivo: criar soluções inovadoras e impactar o mundo com código.
-- 🚀 Apaixonado por aprender e compartilhar conhecimento.
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=500&color=FF6347&background=FFFFFF00&center=true&vCenter=true&width=500&height=50&lines=Bem-vindo+ao+meu+perfil!" />
-</div!>
-
-
----
-
-## 💻 **Tecnologias que domino**
-<div align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
----
+###
 
-## 📊 **Estatísticas do GitHub**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UrielAndrade&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielAndrade&layout=compact&theme=radical" />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
----
+###
 
-## 🏆 **Minhas Conquistas**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UrielAndrade&theme=radical&column=4" />
-</div>
+<br clear="both">
 
----
-
-## 💌 **Vamos nos conectar?**
-<div align="center">
-  <a href="https://linkedin.com/in/seu-usuario">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:uriel300andrade@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/XbJVs9r8gfFqfYZ8Bl/giphy.gif" width="200">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200">
-</div>
-
----
-
-<div align="center">
-  <h3>✨ Obrigado por visitar! ✨</h3>
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100">
-</div>
+<img src="https://raw.githubusercontent.com/urielandrade/urielandrade/output/snake.svg" alt="Snake animation" />

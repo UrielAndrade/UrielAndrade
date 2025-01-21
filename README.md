@@ -11,7 +11,7 @@
 
 <img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 
-👋 Olá! Sou **Uriel Luiz**, um desenvolvedor apaixonado por tecnologia e design.
+👋 Olá! Sou **Uriel Luiz**, um desenvolvedor apaixonado por tecnologia.
 
 - 🌱 Atualmente estudando **C#**, **HTML**, **CSS** e **JavaScript**.
 - 🎯 Meu objetivo: criar soluções inovadoras e impactar o mundo com código.

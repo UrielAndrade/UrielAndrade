@@ -9,7 +9,6 @@
 
 ## 🎨 **Sobre Mim**
 
-<img align="right" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 
 👋 Olá! Sou **Uriel Luiz**, um desenvolvedor apaixonado por tecnologia.
 

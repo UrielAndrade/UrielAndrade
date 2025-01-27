@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Uriel and I'm a Developer, from Brazil.</h2>
+<h2 align="left">Hi! My name is Uriel and I'm a Developer, from Brazil.</h2>
 
 ### 💼 **My Career**
 - 👶 **Born**: 2008

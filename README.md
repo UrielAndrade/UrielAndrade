@@ -2,7 +2,7 @@
 
 ### 💼 **My Career**
 - 👶 **Born**: 2008
-- 💻 **Learning**: C#, JS, CSS, HTML
+- 💻 **Learning**: C#, JS, TS, Docker, NestJS, PostgreSQL
 - 🎓 **Currently**: IFRO - Technical in Information Technology
 - 🚀 **Goal**: BackEnd Developer
 

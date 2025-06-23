@@ -1,7 +1,7 @@
 <h2 align="left">Hi! My name is Uriel and I'm a Developer, from Brazil.</h2>
 
 ### 💼 **My Career**
-- 👶 **Born**: 2008
+- 2008
 - 💻 **Learning**: C#, JS, TS, Docker, NestJS, PostgreSQL
 - 🎓 **Currently**: IFRO - Technical in Information Technology
 - 🚀 **Goal**: BackEnd Developer

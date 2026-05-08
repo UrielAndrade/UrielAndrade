@@ -16,38 +16,41 @@
 </div>
 
 ```bash
-> initializing developer profile...
+> booting up J.A.R.V.I.S developer profile...
 ```
 ```yaml
-name: Uriel Andrade
-role: Backend Developer
-location: Brazil 🇧🇷
+developer:
+  name: "Uriel Andrade"
+  codename: "Arc Reactor"
+  role: "Backend Developer"
+  location: "Brazil 🇧🇷"
 
-education:
-  - IFRO • Technical in Information Technology
+academy:
+  institution: "IFRO"
+  course: "Technical in Information Technology"
 
-learning:
-  - C#
-  - TypeScript
-  - NestJS
-  - Docker
-  - PostgreSQL
+stack:
+  backend:
+    - C#
+    - TypeScript
+    - NestJS
+    - PostgreSQL
 
-interests:
-  - APIs
-  - Automation
-  - Backend Systems
-  - Clean Architecture
+  tools:
+    - Docker
+    - Git
+    - Linux
+    - VSCode
 
-status:
-  dark_mode: enabled
-  caffeine: stable
-  motivation: 300%
-```
+mission:
+  - Build scalable APIs
+  - Master backend architecture
+  - Create real-world systems
 
-<div align="center">
-
-⚡ Building powerful backend systems one commit at a time.  
-🧠 Focused on evolving, learning and creating real projects.
-
-</div>
+system_status:
+  dark_mode: "ENABLED"
+  brain: "ONLINE"
+  bugs: "DETECTED"
+  fixing_bugs: "ALWAYS"
+  motivation: "300%"
+  ```

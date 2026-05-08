@@ -61,13 +61,6 @@ system_status:
   motivation: "300%"
 ```
 
-<div align="center">
-
-⚡ Turning caffeine into code since 2008.  
-🧠 Learning. Building. Evolving.
-
-</div>
-
 ---
 
 ## ⚒️ Tech Arsenal

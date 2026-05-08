@@ -10,12 +10,11 @@
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
-Sou o Uriel, desenvolvedor em formação no Brasil, movido por código, lógica e vontade de construir coisas que funcionam de verdade.
+```bash
+$ whoami
 
-Atualmente estudo **C#**, **TypeScript**, **NestJS**, **Docker** e **PostgreSQL**, sempre focado em evoluir no backend e entender como sistemas robustos são feitos por trás das cortinas.
-
-Curso Técnico em Informática no **IFRO** e estou mirando no objetivo de me tornar um **Backend Developer** sólido, afiado e preparado para desafios reais.
-
-Gosto de ambientes escuros, interfaces limpas e de transformar ideia solta em projeto funcional.
+> Uriel Andrade
+> Backend Developer in Progress
+> Brazil 🇧🇷

@@ -18,3 +18,27 @@ $ whoami
 > Uriel Andrade
 > Backend Developer in Progress
 > Brazil 🇧🇷
+<img align="right" height="180" src="https://media.tenor.com/kz6aEMtdqT8AAAAC/iron-man.gif"/>
+name: Uriel Andrade
+role: Backend Developer
+focus:
+  - APIs
+  - Automation
+  - Databases
+  - Clean Architecture
+
+currently_learning:
+  - C#
+  - TypeScript
+  - NestJS
+  - Docker
+  - PostgreSQL
+
+system_status:
+  dark_mode: enabled
+  caffeine: stable
+  motivation: 300%
+  sleep: not_found
+
+“Sometimes you gotta run before you can walk.”
+— Tony Stark

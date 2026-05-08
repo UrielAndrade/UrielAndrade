@@ -17,6 +17,7 @@
 
 ```bash
 > initializing developer profile...
+```
 ```yaml
 name: Uriel Andrade
 role: Backend Developer

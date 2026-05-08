@@ -9,36 +9,44 @@
 </p>
 
 ---
-
 ## ⚡ About Me
 
-```bash
-$ whoami
+<div align="center">
+  <img height="180" src="https://media.tenor.com/kz6aEMtdqT8AAAAC/iron-man.gif"/>
+</div>
 
-> Uriel Andrade
-> Backend Developer in Progress
-> Brazil 🇧🇷
-<img align="right" height="180" src="https://media.tenor.com/kz6aEMtdqT8AAAAC/iron-man.gif"/>
+```bash
+> initializing developer profile...
+```yaml
 name: Uriel Andrade
 role: Backend Developer
-focus:
-  - APIs
-  - Automation
-  - Databases
-  - Clean Architecture
+location: Brazil 🇧🇷
 
-currently_learning:
+education:
+  - IFRO • Technical in Information Technology
+
+learning:
   - C#
   - TypeScript
   - NestJS
   - Docker
   - PostgreSQL
 
-system_status:
+interests:
+  - APIs
+  - Automation
+  - Backend Systems
+  - Clean Architecture
+
+status:
   dark_mode: enabled
   caffeine: stable
   motivation: 300%
-  sleep: not_found
+```
 
-“Sometimes you gotta run before you can walk.”
-— Tony Stark
+<div align="center">
+
+⚡ Building powerful backend systems one commit at a time.  
+🧠 Focused on evolving, learning and creating real projects.
+
+</div>

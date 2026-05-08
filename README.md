@@ -41,9 +41,10 @@ stack:
     - Git
     - Linux
     - VSCode
+    - JetBrains Tools
 
 mission:
-  - Build scalable APIs
+  - Build scalable APIs 
   - Master backend architecture
   - Create real-world systems
 

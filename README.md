@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ About Me
+## > About Me
 
 <div align="center">
   <img height="180" src="https://media.tenor.com/kz6aEMtdqT8AAAAC/iron-man.gif"/>

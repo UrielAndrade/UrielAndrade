@@ -37,6 +37,17 @@ Arquitetura de software · Microsserviços · Clean Code · Padrões de projeto 
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=UrielAndrade&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielAndrade&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
 </p>
+## Projetos
+
+### [Management Service](https://github.com/ladesa-ro/management-service)
+
+API integrada de gerenciamento acadêmico, desenvolvida com **NestJS**, oferecendo interfaces REST e GraphQL.
+
+- **Arquitetura:** Hexagonal, Domain-Driven Design (DDD) e CQRS.
+- **Tecnologias:** NestJS, TypeORM e PostgreSQL.
+- **Integrações:** Keycloak e RabbitMQ.
+- **Documentação:** [API Docs](https://dev.ladesa.com.br/api/v1/docs/)
+
 
 ## Contato
 
@@ -51,3 +62,4 @@ Arquitetura de software · Microsserviços · Clean Code · Padrões de projeto 
     <img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=22D3EE" alt="Instagram" />
   </a>
 </p>
+

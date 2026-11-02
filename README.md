@@ -1,54 +1,61 @@
-<h1 align="center">Uriel Andrade</h1>
+<h1 align="center">Uriel Luiz de Andrade</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend_Developer-22D3EE?style=flat-square&logo=nestjs&logoColor=0D1117" alt="Backend Developer" />
-  <img src="https://img.shields.io/badge/Brasil-161B22?style=flat-square&labelColor=161B22&color=161B22&logo=googlemaps&logoColor=22D3EE" alt="Brasil" />
+  <img src="https://img.shields.io/badge/.NET_%2F_C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<br />
-
-## Sobre mim
-
-Sou desenvolvedor backend e gosto de construir APIs robustas e escaláveis, com atenção à arquitetura e à clareza do código. Estudo microsserviços, padrões de projeto e Clean Code, aplicando esses conceitos principalmente com **C#** e **NestJS**.
-
-## Formação
-
-Técnico em Informática — **IFRO**, Instituto Federal de Rondônia.
-
-## Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,nestjs,ts,js,nodejs,postgres&theme=dark" alt="C#, NestJS, TypeScript, JavaScript, Node.js, PostgreSQL" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/uriel-andrade">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andradeleiru@gmail.com">
+    <img src="https://img.shields.io/badge/Email-andradeleiru%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-## Ferramentas
+---
+
+### 👨‍💻 Sobre mim
+
+Sou desenvolvedor backend focado na criação de APIs REST e GraphQL robustas, seguras e de alta performance. Atualmente participo do desenvolvimento ativo da infraestrutura de software acadêmico no **LADESA (IFRO)**, com mais de **100 Pull Requests integrados** em microsserviços com **NestJS**, **TypeScript**, **PostgreSQL** e **Docker**.
+
+Além do ecossistema TypeScript, possuo forte dedicação e estudo em arquitetura de software, Clean Architecture e APIs com **C# / .NET**, aplicando boas práticas como locks pessimistas de concorrência, rate limiting dinâmico e cobertura de testes.
+
+- 🎓 **Formação:** Técnico em Informática — **IFRO** (Conclusão dez/2026)
+- 🎯 **Objetivo:** Estágio ou vaga Júnior em Desenvolvimento Backend (.NET ou NestJS/Node.js)
+- 📍 **Localização:** Ji-Paraná, RO – Brasil (Disponível para trabalho presencial, híbrido ou remoto)
+
+---
+
+### 🛠️ Stack & Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,vscode&theme=dark" alt="Docker, Linux, Git, Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,ts,nodejs,postgres,docker,linux,git&theme=dark" alt="Minha Stack" />
 </p>
 
-## Interesses
+- **Linguagens & Frameworks:** C#, .NET Core, TypeScript, JavaScript, NestJS, Node.js, Bun
+- **Banco de Dados:** PostgreSQL, TypeORM, SQL
+- **Infraestrutura & Ferramentas:** Docker, Docker Compose, Linux, Git, GitHub Actions, Postman, WebStorm, VS Code
 
-Arquitetura de software · Microsserviços · Clean Code · Padrões de projeto · APIs escaláveis
+---
 
-## GitHub
+### 🏆 Destaque de Atuação Prática (LADESA)
 
-<p>
+- **[ladesa-ro/management-service](https://github.com/ladesa-ro/management-service):** API central do sistema acadêmico do IFRO.
+  - Desenvolvi o módulo completo de **Gestão de Estágios e Candidaturas**.
+  - Construí a infraestrutura de **Folha de Ponto** com autenticação segura e envio via WhatsApp.
+  - Mitiguei gargalos de concorrência e transações usando **locks pessimistas**.
+  - Configurei **Rate Limiting dinâmico** e cache de tokens na autenticação.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=UrielAndrade&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UrielAndrade&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" alt="Top languages" />
 </p>
-
-## Contato
-
-<p>
-  <a href="https://github.com/UrielAndrade">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub" />
-  </a>
-  <a href="mailto:andradeleiru@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=22D3EE" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/uriel_007_leiru/">
-    <img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=22D3EE" alt="Instagram" />
-  </a>
-</p>
-

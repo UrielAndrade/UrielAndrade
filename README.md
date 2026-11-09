@@ -43,14 +43,22 @@ Além do ecossistema TypeScript, possuo forte dedicação e estudo em arquitetur
 
 ---
 
-### 🏆 Destaque de Atuação Prática (LADESA)
+### 🏆 Destaque de Atuação Prática
+
+**LADESA**
 
 - **[ladesa-ro/management-service](https://github.com/ladesa-ro/management-service):** API central do sistema acadêmico do IFRO.
   - Desenvolvi o módulo completo de **Gestão de Estágios e Candidaturas**.
-  - Construí a infraestrutura de **Folha de Ponto** com autenticação segura e envio via WhatsApp.
-  - Mitiguei gargalos de concorrência e transações usando **locks pessimistas**.
+  - Construí a infraestrutura de **Folha de Ponto**, com autenticação segura e envio via WhatsApp.
+  - Mitiguei gargalos de concorrência e transações utilizando **locks pessimistas**.
   - Configurei **Rate Limiting dinâmico** e cache de tokens na autenticação.
 
+**STAR Concessionária**
+
+- **[REDS-IF/star-concessionaria-api](https://github.com/REDS-IF/star-concessionaria-api):** API backend de um sistema de gerenciamento de concessionária.
+  - Participação no desenvolvimento da API e de suas funcionalidades.
+  - Contribuições registradas no histórico de commits do projeto.
+  - [Visualizar meus commits](https://github.com/REDS-IF/star-concessionaria-api/commits/main).
 ---
 
 ### 📊 Estatísticas do GitHub
